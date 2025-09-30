@@ -25,6 +25,6 @@ OpenWeatherMap API → fuente de datos del clima.
 
 Desarrollado por Andres camilo Barreto Roa– Estudiante de Ingeniería de Sistemas / Web Developer 🌐
 
-si quieres usar la app necesitaras una APi_key la cual la podras solicitar en la pagina de OpenWeatherMap.com
+si quieres usar la app necesitaras una APi_key la cual la podras solicitar en la pagina oficial de OpenWeatherMap.com
 
 
