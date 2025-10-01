@@ -1,4 +1,4 @@
-const API_KEY ="4928748b0dacbf9612904fb8f811d5f7"
+const API_KEY =
 
 // elementos del DOM
 const boton = document.getElementById("Buscar");
