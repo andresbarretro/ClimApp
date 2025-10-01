@@ -1,15 +1,16 @@
 *{
     margin: 0;
-    /* padding: 0; */
-    /* box-sizing: border-box; */
+   
 }
 
+/* estipo para el fondo de la pagina */
 body{
     background-image: url(./imgs/fondo_AppClima.jpg);
     background-size: cover;
 
 }
 
+/* Estilos para el header en general */
 header{
     background-color: rgb(1, 16, 49);
     text-align: center;
@@ -20,6 +21,8 @@ header{
     padding: 1%;
 }
 
+
+/* Estilos para el main en general */
 form{
     display: grid;
     justify-items: center;
@@ -27,6 +30,8 @@ form{
     gap: 15%;
     padding: 2%;
 }
+
+
 input{
     width: 30%;
     border-radius: 10px;
@@ -50,8 +55,8 @@ button{
     margin-left: 60rem;
 }
 
-
-.container{
+/* Estilos para el resultado de la busqueda  */
+#container{
     background-color: rgba(1, 16, 49,0.4);
     display: flex;
     filter: drop-shadow(2px 4px 6px black);
